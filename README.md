@@ -1,5 +1,18 @@
 # Baymax - AI Health Companion
+**Video 1:-** The video below demonstrates the Google login process and provides a step-by-step guide for users to upload their medical reports.
 
+[Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmUM1Xlmti8NSXo2g)
+
+**Video 2:-** Below, the video and image illustrate a comparison of vital signs across different user's medical reports.
+
+[Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmUUJAZwpX0x3Nk5m)
+
+[image](https://1drv.ms/i/s!Av10f2BI9V6ZmUKe_NdXUrb4q_rD)
+
+**Video 3:-** The video below demonstrates how to create a group, add members, and view detailed reports for all group members. Similarly, every member of the group can access and view details of all other members through their own accounts.
+
+[Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmURAktxs-9TncQoI)
+ 
 This project is a **Medical Report Management System** designed to simplify and streamline the analysis of medical reports. Users can upload their report PDFs, which are then processed using the **pdf-parse** library in Node.js to extract relevant data. The extracted information is further structured and organized using the OpenAI API to fit a predefined format.
 
 The system tracks and displays over 100+ vitals, grouped under specific categories such as Kidney Panel, Liver Function Tests, Urinalysis, Vitamin Panel, and 20+ other sections, allowing users to view a comparative analysis of all uploaded reports. This eliminates the need to manually review each report to track changes in a specific vital. For instance, under the Kidney Panel section, all relevant vitals from every uploaded report are presented in one place, providing an intuitive and efficient way to monitor changes over time.
