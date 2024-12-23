@@ -13,6 +13,7 @@ This tool ensures users have quick and clear access to their medical trends, ena
 **Categorization of Health Metrics:** Organizes vitals into predefined categories such as Kidney Panel, Liver Function Tests, Vitamin Panel, and more for better clarity.
 
 **Comparative Analysis:** Provides a side-by-side comparison of vitals from all uploaded reports, simplifying the process of identifying changes or patterns.
+
 **Group Functionality:** Allows users to create groups where all members can share and view each other’s medical reports and trends, fostering collaborative health tracking.
 
 **Automated Data Processing:** Automatically extracts and restructures data from PDFs, saving time and reducing manual effort.
