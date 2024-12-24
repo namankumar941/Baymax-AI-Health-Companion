@@ -7,12 +7,16 @@
 
 [Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmUUJAZwpX0x3Nk5m)
 
-![Local Image](vitalsComparison.png)
+![vitalsComparison.png](vitalsComparison.png)
 
 
 **Video 3:-** The video below demonstrates how to create a group, add members, and view detailed reports for all group members. Similarly, every member of the group can access and view details of all other members through their own accounts.
 
 [Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmURAktxs-9TncQoI)
+
+ **Images Display How Report Details Are Stored :-** The images below illustrate various medical tests, each associated with specific vitals relevant to that test. For example, the lipid panel displays vitals related to cholesterol levels.
+ ![testName.png](testName.png)
+ ![vitals.png](vitals.png)
  
 This project is a **Medical Report Management System** designed to simplify and streamline the analysis of medical reports. Users can upload their report PDFs, which are then processed using the **pdf-parse** library in Node.js to extract relevant data. The extracted information is further structured and organized using the OpenAI API to fit a predefined format.
 
