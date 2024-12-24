@@ -7,7 +7,8 @@
 
 [Watch the video](https://1drv.ms/v/s!Av10f2BI9V6ZmUUJAZwpX0x3Nk5m)
 
-[image](https://1drv.ms/i/s!Av10f2BI9V6ZmUKe_NdXUrb4q_rD)
+![Local Image](vitalsComparison.png)
+
 
 **Video 3:-** The video below demonstrates how to create a group, add members, and view detailed reports for all group members. Similarly, every member of the group can access and view details of all other members through their own accounts.
 
